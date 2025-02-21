@@ -6,8 +6,8 @@
 
 
 <div align="center" display: grid; place-items: center;">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/YouAreSloth/OnyxCrypt?color=purple">
-    <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/YouAreSloth/OnyxCrypt/total?color=purple">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/YouAreSloth/OnyxCrypter?color=purple">
+    <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/YouAreSloth/OnyxCrypter/total?color=purple">
 </div>
 
 ## Crypting 101:
