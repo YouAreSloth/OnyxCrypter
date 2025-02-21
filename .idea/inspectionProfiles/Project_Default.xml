@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="10">
+            <item index="0" class="java.lang.String" itemvalue="PySocks" />
+            <item index="1" class="java.lang.String" itemvalue="colorama" />
+            <item index="2" class="java.lang.String" itemvalue="configparser" />
+            <item index="3" class="java.lang.String" itemvalue="requests" />
+            <item index="4" class="java.lang.String" itemvalue="urllib3" />
+            <item index="5" class="java.lang.String" itemvalue="readchar" />
+            <item index="6" class="java.lang.String" itemvalue="pyCraft" />
+            <item index="7" class="java.lang.String" itemvalue="stem" />
+            <item index="8" class="java.lang.String" itemvalue="Flask" />
+            <item index="9" class="java.lang.String" itemvalue="memory_profiler" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
